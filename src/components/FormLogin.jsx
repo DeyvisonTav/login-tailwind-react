@@ -23,7 +23,7 @@ export function FormLogin() {
           <input
           placeholder='digite sua senha'
           className='bg-zinc-100 hover:bg-zinc-50 w-full  border border-gray-300 focus:border-blue-500 rounded px-2 py-1 text-base text-gray-800 placeholder-gray-300 focus:outline-none transition duration-150 ease-out hover:ease-in'
-           type="text" id='password' />
+           type="password" id='password' />
         </div>
         <div className>
           <button className='w-full text-sm bg-blue-500 hover:bg-blue-600 transition duration-150 ease-out hover:ease-in px-4 py-1 rounded text-white shadow '>
